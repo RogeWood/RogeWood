@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wood</h1>
 <h3 align="center">just student with game dream</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogeWood&show_icons=true&theme=radical)
+### GitHub Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogeWood&show_icons=true&theme=dark)
 
+### Using languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogeWood&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/rogewood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rogewood" height="30" width="40" /></a>
