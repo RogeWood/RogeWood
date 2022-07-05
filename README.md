@@ -19,6 +19,4 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### Other
-<a href="https://stackoverflow.com/users/rogewood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rogewood" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/woodtoo212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="woodtoo212" height="30" width="40" /></a>
 ![](https://komarev.com/ghpvc/?username=RogeWood&color=green)
