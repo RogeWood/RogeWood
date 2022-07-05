@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wood</h1>
+<h1>Hi 👋, I'm Wood</h1>
 <h3 align="center">just student with game dream</h3>
 
 ### GitHub Status
