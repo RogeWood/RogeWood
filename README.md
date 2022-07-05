@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wood</h1>
 <h3 align="center">just student with game dream</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogeWood&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
