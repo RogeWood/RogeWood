@@ -5,7 +5,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RogeWood&theme=github_dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogeWood&show_icons=true&theme=dark)
 
-### Using languages
+### Used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogeWood&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
